@@ -1,0 +1,9 @@
+#ifndef PRACTICECOPY_GETARRAYOFEMPLOYERS_H
+#define PRACTICECOPY_GETARRAYOFEMPLOYERS_H
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include "../Employer.h"
+#include "GetCountOfEmployers.h"
+Employer *getArrayOfEmployers();
+#endif //PRACTICECOPY_GETARRAYOFEMPLOYERS_H

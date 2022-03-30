@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(PracticeCopy)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(PracticeCopy main.cpp EmployerFunctions/EmployerFunctions.h Employer.h Worker.h EmployerFunctions/GetEmployerInfo.cpp EmployerFunctions/GetEmployerInfo.h EmployerFunctions/WriteEmployerInfo.cpp EmployerFunctions/WriteEmployerInfo.h EmployerFunctions/PrintEmployerInfo.cpp EmployerFunctions/PrintEmployerInfo.h WorkerFunctions/WorkerFunctions.h WorkerFunctions/GetWorkerInfo.cpp WorkerFunctions/GetWorkerInfo.h WorkerFunctions/WriteWorkerInfo.cpp WorkerFunctions/WriteWorkerInfo.h WorkerFunctions/PrintWorkerInfo.cpp WorkerFunctions/PrintWorkerInfo.h ServiceFunctions/CheckString.cpp ServiceFunctions/CheckString.h EmployerFunctions/GetCountOfEmployers.cpp EmployerFunctions/GetCountOfEmployers.h EmployerFunctions/GetArrayOfEmployers.cpp EmployerFunctions/GetArrayOfEmployers.h EmployerFunctions/SelectEmployer.cpp EmployerFunctions/SelectEmployer.h WorkerFunctions/GetCountOfWorkers.cpp WorkerFunctions/GetCountOfWorkers.h WorkerFunctions/GetArrayOfWorkers.cpp WorkerFunctions/GetArrayOfWorkers.h WorkerFunctions/SelectWorker.cpp WorkerFunctions/SelectWorker.h ManagerFunctions/MakeContract.cpp ManagerFunctions/MakeContract.h)

@@ -1,0 +1,10 @@
+Bank of Russia	Finance and buisness	Russia, Moscow	89007779999	Manager
+Apple	Software development	USA	566556	Middle
+Apple	Software development	USA	565656	Engineer
+BMV	carproduction	Europe	231347	High
+Hundai	Automotive	South Korea	363656	Middle engineer
+Microsoft	Soft development	USA	963696	Open source projects' manager
+RusAll	non-ferrous metallurgy	Russia	89004215231	High engineer
+Yandex	IT company	Russia, Moscow	2147483647
+				
+				

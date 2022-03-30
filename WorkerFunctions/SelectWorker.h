@@ -1,0 +1,9 @@
+#ifndef PRACTICECOPY_SELECTWORKER_H
+#define PRACTICECOPY_SELECTWORKER_H
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include "../Worker.h"
+#include "GetArrayOfWorkers.h"
+Worker selectWorker();
+#endif //PRACTICECOPY_SELECTWORKER_H

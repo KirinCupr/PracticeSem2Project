@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PracticeCopy"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/GIT_HUB/PracticeCopy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/GIT_HUB/PracticeCopy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PracticeCopy">
+				<Option output="D:/GIT_HUB/PracticeCopy/cmake-build-debug/PracticeCopy.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/GIT_HUB/PracticeCopy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 PracticeCopy"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PracticeCopy/fast">
+				<Option output="D:/GIT_HUB/PracticeCopy/cmake-build-debug/PracticeCopy.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/GIT_HUB/PracticeCopy/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 PracticeCopy/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/GIT_HUB/PracticeCopy/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GIT_HUB/PracticeCopy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/Employer.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/EmployerFunctions.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/GetArrayOfEmployers.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/GetArrayOfEmployers.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/GetCountOfEmployers.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/GetCountOfEmployers.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/GetEmployerInfo.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/GetEmployerInfo.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/PrintEmployerInfo.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/PrintEmployerInfo.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/SelectEmployer.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/SelectEmployer.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/WriteEmployerInfo.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/EmployerFunctions/WriteEmployerInfo.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/ManagerFunctions/MakeContract.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/ManagerFunctions/MakeContract.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/ServiceFunctions/CheckString.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/ServiceFunctions/CheckString.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/Worker.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/GetArrayOfWorkers.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/GetArrayOfWorkers.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/GetCountOfWorkers.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/GetCountOfWorkers.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/GetWorkerInfo.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/GetWorkerInfo.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/PrintWorkerInfo.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/PrintWorkerInfo.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/SelectWorker.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/SelectWorker.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/WorkerFunctions.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/WriteWorkerInfo.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/WorkerFunctions/WriteWorkerInfo.h">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/main.cpp">
+			<Option target="PracticeCopy"/>
+		</Unit>
+		<Unit filename="D:/GIT_HUB/PracticeCopy/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

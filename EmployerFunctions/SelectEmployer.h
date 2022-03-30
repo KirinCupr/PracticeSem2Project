@@ -1,0 +1,9 @@
+#ifndef PRACTICECOPY_SELECTEMPLOYER_H
+#define PRACTICECOPY_SELECTEMPLOYER_H
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include "../Employer.h"
+#include "GetArrayOfEmployers.h"
+Employer selectEmployer();
+#endif //PRACTICECOPY_SELECTEMPLOYER_H

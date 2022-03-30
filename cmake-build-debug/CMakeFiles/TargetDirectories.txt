@@ -1,0 +1,3 @@
+D:/GIT_HUB/PracticeCopy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GIT_HUB/PracticeCopy/cmake-build-debug/CMakeFiles/PracticeCopy.dir
+D:/GIT_HUB/PracticeCopy/cmake-build-debug/CMakeFiles/edit_cache.dir

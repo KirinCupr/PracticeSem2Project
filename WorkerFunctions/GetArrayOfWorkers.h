@@ -1,0 +1,9 @@
+#ifndef PRACTICECOPY_GETARRAYOFWORKERS_H
+#define PRACTICECOPY_GETARRAYOFWORKERS_H
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include "../Worker.h"
+#include "GetCountOfWorkers.h"
+Worker *getArrayOfWorkers();
+#endif //PRACTICECOPY_GETARRAYOFWORKERS_H
