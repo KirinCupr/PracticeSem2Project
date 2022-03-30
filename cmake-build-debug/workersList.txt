@@ -1,2 +1,4 @@
 Name	name	patr	Junior	Goodpayd
 Ivanov	Ivan	Ivanovich	3 level	Doctor
+Denis	Talagaev	Olegovich	Highest	Engineer
+Kamnev	Egor	Andreevich	1	Doctor

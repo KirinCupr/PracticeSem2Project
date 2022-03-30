@@ -13,7 +13,7 @@ Employer selectEmployer()
              << setw(10) << listEmployer[choice - 1].address << '\t'
              << setw(10) << listEmployer[choice - 1].phoneNumber << '\t'
              << setw(10) << listEmployer[choice - 1].vacancy << endl;
-        cout << "\nAre you sure about your choice?(Enter 'Y' - Yes, 'N' - No)\\n-->>\"\n";
+        cout << "\nAre you sure about your choice?(Enter 'Y' - Yes, 'N' - No) \n -->>";
         cin.clear(); cin >> check; cin.ignore();
     } while (check == 'N' || check == 'n');
 

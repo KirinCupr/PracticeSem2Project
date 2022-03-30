@@ -77,6 +77,7 @@ CMakeFiles/PracticeCopy.dir/main.cpp.obj: \
  ../EmployerFunctions/PrintEmployerInfo.h \
  ../EmployerFunctions/SelectEmployer.h \
  ../EmployerFunctions/WriteEmployerInfo.h \
+ ../ManagerFunctions/MakeContract.h \
  ../ServiceFunctions/CheckString.h \
  ../Worker.h \
  ../WorkerFunctions/GetArrayOfWorkers.h \
